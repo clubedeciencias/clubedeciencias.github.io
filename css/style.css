@@ -9,6 +9,11 @@
 }
 
 @font-face{
+    font-family:lazy_dog;
+    src:url(../css/lazy_dog.ttf) format('truetype')
+}
+
+@font-face{
     font-family:QuattrocentoSans-Regular;
     src:url(../css/QuattrocentoSans-Regular.ttf) format('truetype')
 }
