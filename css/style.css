@@ -242,7 +242,7 @@ a.btn-clear{
 
 
 #flex-slide .slides li h1{
-    font-family: 'LazyDog',;    
+    font-family: 'LazyDog', cursive;    
     font-weight:900;
     line-height: 45px;
     letter-spacing: 2px;
@@ -287,7 +287,7 @@ a.btn-clear:hover{
 }
 
 .title-page h2 {
-    font-family: 'LazyDog', ;
+    font-family: 'LazyDog', cursive;
     margin: 0;
     margin-top: -1680px;
     padding-left: 10px;
