@@ -238,7 +238,6 @@ a.btn-clear{
     background:#fff
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 #flex-slide .slides li h1{
     font-family: 'lazy_dog', cursive;    
@@ -286,7 +285,7 @@ a.btn-clear:hover{
 }
 
 .title-page h2 {
-    font-family: 'Indie Flower', cursive;
+    font-family: 'lazy_dog', cursive;
     margin: 0;
     margin-top: -1680px;
     padding-left: 10px;
