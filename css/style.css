@@ -8,10 +8,7 @@
     src:url(../css/QuattrocentoSans-Bold.ttf) format('truetype')
 }
 
-@font-face{
-    font-family:lazy_dog;
-    src:url(../css/lazy_dog.ttf) format('truetype')
-}
+@font-face {font-family: "LazyDog"; src: url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.eot"); src: url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.woff") format("woff"), url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.svg#LazyDog") format("svg"); }
 
 @font-face{
     font-family:QuattrocentoSans-Regular;
@@ -245,7 +242,7 @@ a.btn-clear{
 
 
 #flex-slide .slides li h1{
-    font-family: 'lazy_dog', cursive;    
+    font-family: 'LazyDog', cursive;    
     font-weight:900;
     line-height: 45px;
     letter-spacing: 2px;
@@ -290,7 +287,7 @@ a.btn-clear:hover{
 }
 
 .title-page h2 {
-    font-family: 'lazy_dog', cursive;
+    font-family: 'LazyDog', cursive;
     margin: 0;
     margin-top: -1680px;
     padding-left: 10px;
