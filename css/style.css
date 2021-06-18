@@ -8,7 +8,7 @@
     src:url(../css/QuattrocentoSans-Bold.ttf) format('truetype')
 }
 
-@font-face {font-family: "LazyDog"; src: url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.eot"); src: url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.woff") format("woff"), url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.svg#LazyDog") format("svg"); }
+@font-face {font-family:LazyDog; src: url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.eot"); src: url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.woff") format("woff"), url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/44f55ef6a71f7aa2d79e63055d18a689.svg#LazyDog") format("svg"); }
 
 @font-face{
     font-family:QuattrocentoSans-Regular;
